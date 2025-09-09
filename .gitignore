@@ -1,0 +1,8 @@
+# Dependências do Node
+node_modules/
+
+# Relatórios de Cobertura de Teste
+coverage/
+
+# Arquivos de log do NPM
+npm-debug.log*
